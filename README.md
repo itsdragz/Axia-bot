@@ -1,5 +1,5 @@
 ## Axia
-Axia is a multi-utility bot that contains many useful commands and management systems! This bot is well known for its use of customizable suggestion commands 
+Axia is a multi-utility bot that contains many useful commands and management systems! This bot is well known for its use of customizable suggestion commands. You can find our Privacy Policy [here](https://github.com/itsdragz/Axia-bot/blob/master/Privacy%20Policy.md)
  
  * Default bot permission are SEND_MESSAGES and VIEW_CHANNEL
  * Args labeled with ^ are optional
