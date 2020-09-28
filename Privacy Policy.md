@@ -1,4 +1,4 @@
-#Privacy Policy
+# Privacy Policy
 By using Axia, you agree to the following privacy policy.
 
 Axia collects user and guild IDS for our database, which we store until a user requests for the data to be deleted via the ',deletedata' command or they can email me via ecdragonzz@gmail.com
