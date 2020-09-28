@@ -1,4 +1,4 @@
-## Introduction
+## Axia
 Axia is a multi-utility bot that contains many useful commands and management systems! This bot is well known for its use of customizable suggestion commands 
  
  * Default bot permission are SEND_MESSAGES and VIEW_CHANNEL
