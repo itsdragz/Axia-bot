@@ -1,6 +1,11 @@
-## Axia
-Axia is a multi-utility bot that contains many useful commands and management systems! This bot is well known for its use of customizable suggestion commands. You can find our Privacy Policy [here](https://github.com/itsdragz/Axia-bot/blob/master/Privacy%20Policy.md)
- 
+## Introduction
+Axia is a multi-utility bot that contains many useful commands and management systems! This bot is well known for its use of customizable `suggestion` command. Also, it's online 24/7 (other than small downtime). Furthermore, has 20+ useful commands for you and your server and it's being updated every week!
+  
+### Getting started
+Start by running the `setup` command, the command will lead you to setup your suggest channel, report channel and mute role. For more help run the help command or join our support server.
+
+### List of commands
+Most of the commands are listed here
  * Default bot permission are SEND_MESSAGES and VIEW_CHANNEL
  * Args labeled with ^ are optional
  * Use the command 'deletedata' if you want to delete your data from my database
